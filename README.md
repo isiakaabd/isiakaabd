@@ -12,10 +12,17 @@
 </a>  
 
 
+
+
 &#x263A; I am a Frontend enthusiast
+
+
+
 I’m a  creative and passionate frontend developer and a graduate of federal university of technology Akure with years of work experience in a variety of exciting projects. My goal is to solve real-life and business problems through various technological tools and creative thinking. 
 I am someone who has immense passion for designing and have spent the last few months improving my knowledge and level of expertise. 
 I have a natural inquisitive and analytical nature, that means I enjoy getting to the bottom of things and looking for ways to make whatever I am working on more efficient and effective.
+
+
 My Skills
 - HTML
 - CSS
@@ -34,4 +41,4 @@ When I am not coding, I love reading books, watching documentaries and making ad
 * LinkedIn: [ISIAKA ABDULAHI](https://www.linkedin.com/in/isiaka-abdulahi-1bb16514a/)
 * Medium: [My Blog](https://isiakaabd.medium.com/)
 * Twitter: [REMLAD] (https://twitter.com/isiakaabd/)
-* Discord: [REMLAD](https://twitter.com/isiakaabd)
+
