@@ -14,7 +14,7 @@
 
 
 &#x1F4C9;
-&#x263A; I am a Frontend enthusiast
+&#x263A; A Frontend enthusiast
 
 
 
@@ -32,12 +32,13 @@ My Skills
 - JavaScript
 - React.js
 - Redux
-- SEO Marketing
+- SEO Optimisation
+- FIGMA
 
 When I am not coding, I love reading books, watching documentaries and making adventures. 
 
 ### Get in Touch
-* Personal Website: [arimoroportfolio.netlify.app](https://isiaka-abdulahi-new-portfolio.netlify.app/)
+* Personal Website: [Portfolio 1](https://isiaka-abdulahi-new-portfolio.netlify.app/)
 * LinkedIn: [ISIAKA ABDULAHI](https://www.linkedin.com/in/isiaka-abdulahi-1bb16514a/)
 * Medium: [My Blog](https://isiakaabd.medium.com/)
 * Twitter: [REMLAD] (https://twitter.com/isiakaabd/)
