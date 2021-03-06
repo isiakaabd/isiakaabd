@@ -11,8 +11,6 @@
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=isiakaabd&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isiaka Abdulahi's GitHub Stats" />
 </a>  
 
-
-
 &#x1F4C9;
 &#x263A; A Frontend enthusiast
 
@@ -37,7 +35,7 @@ My Skills
 
 When I am not coding, I love reading books, watching documentaries and making adventures. 
 
-### Get in Touch
+### Let's Talk
 * Personal Website: [Portfolio ](https://abdulahi.netlify.app/)
 * LinkedIn: [ISIAKA ABDULAHI](https://www.linkedin.com/in/isiaka-abdulahi-1bb16514a/)
 * Medium: [My Blog](https://isiakaabd.medium.com/)
