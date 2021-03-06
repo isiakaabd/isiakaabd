@@ -1,6 +1,6 @@
 ## 👋 Hello, I am ISIAKA ABDULAHI (Simply say REMLAD)
 
-##	&#x1F4C9; GitHub Stats -- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/isiaka-abdulahi-1bb16514a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/isiakaabd/?hl=en/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/TheCodeLord) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/isiakaabd)
+##	&#x1F4C9; GitHub Stats -- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/isiaka-abdulahi-1bb16514a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/isiakaabd/?hl=en/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/isiakaabd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/isiakaabd)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=isiakaabd)
 
@@ -38,7 +38,7 @@ My Skills
 When I am not coding, I love reading books, watching documentaries and making adventures. 
 
 ### Get in Touch
-* Personal Website: [Portfolio 1](https://isiaka-abdulahi-new-portfolio.netlify.app/)
+* Personal Website: [Portfolio ](https://abdulahi.netlify.app/)
 * LinkedIn: [ISIAKA ABDULAHI](https://www.linkedin.com/in/isiaka-abdulahi-1bb16514a/)
 * Medium: [My Blog](https://isiakaabd.medium.com/)
 * Twitter: [REMLAD] (https://twitter.com/isiakaabd/)
