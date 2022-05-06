@@ -22,22 +22,26 @@ I have a natural inquisitive and analytical nature, that means I enjoy getting t
 
 
 My Skills
-- HTML
-- CSS
-- D3
+- HTML5
+- CSS3
+- Material UI
 - Bootstrap
 - Git & GitHub
 - JavaScript
-- React.js
+- React
 - Redux
+- TypeScript
+- Solidity 
 - SEO Optimisation
-- FIGMA
+- NodeJS
+- MongoDB
+- GraphQL
 
 When I am not coding, I love reading books, watching documentaries and making adventures. 
 
 ### Let's Talk
 * Personal Website: [Portfolio ](https://abdulahi.netlify.app/)
-* LinkedIn: [ISIAKA ABDULAHI](https://www.linkedin.com/in/isiaka-abdulahi-1bb16514a/)
-* Medium: [My Blog](https://isiakaabd.medium.com/)
-* Twitter: [REMLAD] (https://twitter.com/isiakaabd/)
+* LinkedIn: [ISIAKA ABDULAHI](https://www.linkedin.com/in/isiakaabd/)
+* Medium: [My Blog](https://dev.to/isiakaabd)
+* Twitter: [REMLAD] (https://twitter.com/isiakaabd)
 
