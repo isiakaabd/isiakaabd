@@ -42,6 +42,6 @@ When I am not coding, I love reading books, watching documentaries and making ad
 ### Let's Talk
 * Personal Website: [Portfolio ](https://abdulahi.netlify.app/)
 * LinkedIn: [ISIAKA ABDULAHI](https://www.linkedin.com/in/isiakaabd/)
-* Medium: [My Blog](https://dev.to/isiakaabd)
+* Articles: [My Blog](https://dev.to/isiakaabd)
 * Twitter: [REMLAD] (https://twitter.com/isiakaabd)
 
