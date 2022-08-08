@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Isiaka Abdulahi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
@@ -10,11 +9,9 @@
 
 - 📝 I regularly write articles on [https://dev.to/isiakaabd](https://dev.to/isiakaabd)
 
-- 💬 Ask me about **react, NextJS, Typescript,Material UI**
+- 💬 Ask me about **React, NextJS, Typescript,Material UI**
 
 - 📫 How to reach me **isiakaabd@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NrzvRBBasznykD2FjWISBV-k_OKa1xYr/view?usp=sharing](https://drive.google.com/file/d/1NrzvRBBasznykD2FjWISBV-k_OKa1xYr/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
