@@ -30,4 +30,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isiakaabd&show_icons=true&locale=en&layout=compact" alt="isiakaabd" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=isiakaabd&" alt="isiakaabd" /></p>
