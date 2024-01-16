@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isiaka Abdulahi Akinkunmi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A fullstack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isiakaabd&label=Profile%20views&color=0e75b6&style=flat" alt="isiakaabd" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/isiakaabd](https://dev.to/isiakaabd)
 
-- 💬 Ask me about **React, NextJS, Typescript,Material UI**
+- 💬 Ask me about **React, NextJS, Typescript, NestJs, Prisma,Material UI**
 
 - 📫 How to reach me **isiakaabd@gmail.com**
 
